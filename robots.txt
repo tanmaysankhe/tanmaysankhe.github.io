@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanmaysankhe.github.io/sitemap-index.xml
+Host: https://tanmaysankhe.github.io
